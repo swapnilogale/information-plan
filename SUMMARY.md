@@ -2,10 +2,10 @@
 
 * [Introduction](README.md)
 * [Purpose](chapter1.md)
+* [Deliverables](deliverables.md)
 * [Requirements](requirements.md)
-* Audience
-* Deliverables
+* [Audience](audience.md)
 * Prototypes/Design
 * Process
-* Milestones
+* [Milestones](milestones.md)
 
