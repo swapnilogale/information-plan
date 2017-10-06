@@ -17,11 +17,11 @@ Audience: **Planners/Schedulers**
 
 | Question | Answer |
 | :--- | :--- |
-| Who is the audience? |  |
-| Why does the audience need the content? |  |
-| When will the audience use the content? |  |
-| Where and how will the audience use the content? |  |
-| What is important to the audience? |  |
+| Who is the audience? | Planners/Schedulers include users who will be responsible for managing schedules and resources across multiple projects. |
+| Why does the audience need the content? | Project Managers will plan, manage and assign projects. They will need to understand how the various features work in the shortest amount of time. |
+| When will the audience use the content? | When the Project Managers first start planning for a new project, or they want to explore the various ways to use our product. |
+| Where and how will the audience use the content? | Project Managers include users who will be responsible for managing multiple project end to end using our product. |
+| What is important to the audience? | Project Managers include users who will be responsible for managing multiple project end to end using our product.  |
 
 
 Audience: **Management**
