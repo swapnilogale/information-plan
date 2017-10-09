@@ -5,7 +5,7 @@
 * [Deliverables](deliverables.md)
 * [Requirements](requirements.md)
 * [Audience](audience.md)
-* Prototypes/Design
+* [Prototypes/Design](prototypesdesign.md)
 * Process
 * [Milestones](milestones.md)
 
