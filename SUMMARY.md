@@ -1,5 +1,7 @@
 # Summary
 
+## Planning
+
 * [Introduction](README.md)
 * [Purpose](chapter1.md)
 * [Deliverables](deliverables.md)
@@ -8,4 +10,6 @@
 * [Prototypes/Design](prototypesdesign.md)
 * [Process](process.md)
 * [Table of Contents \(Overview\)](table-of-contents-overview.md)
+
+## Content development
 
