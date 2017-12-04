@@ -13,3 +13,6 @@
 
 ## Content development
 
+* [Product walkthroughs](content-development/product-walkthroughs.md)
+* Record videos
+
