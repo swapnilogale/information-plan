@@ -16,5 +16,4 @@
 * [Product walkthroughs](content-development/product-walkthroughs.md)
 * [Record videos/animated gifs](content-development/record-videos.md)
 * [On-hover help text](content-development/ux-help-text.md)
-* Embedded help content
 
