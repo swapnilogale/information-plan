@@ -14,5 +14,5 @@
 ## Content development
 
 * [Product walkthroughs](content-development/product-walkthroughs.md)
-* Record videos
+* [Record videos/animated gifs](content-development/record-videos.md)
 
